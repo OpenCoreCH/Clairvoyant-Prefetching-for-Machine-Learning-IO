@@ -15,7 +15,7 @@ The described software is available at [OpenCoreCH/hdmlp](https://github.com/Ope
 We published a paper based on this work at Supercomputing 2021: [Clairvoyant Prefetching for Distributed Machine Learning I/O](https://arxiv.org/abs/2101.08734).
 ```
 @inproceedings{dryden2021clairvoyant,
-  title={CLairvoyant Prefetching for Distributed Machine Learning {I/O}},
+  title={Clairvoyant Prefetching for Distributed Machine Learning {I/O}},
   author={Nikoli Dryden and Roman B\"{o}hringer and Tal Ben-Nun and Torsten Hoefler},
   booktitle={Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)},
   year={2021},
